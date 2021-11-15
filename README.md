@@ -10,8 +10,6 @@
 ## Link to assignment description
 https://coursework.vschool.io/dj-js/
 
-## Link to repl page
-* Repl will allow you to share links to html files you create in repl as regular web pages. 
-* The link for displaying an html file as a regular web page is found right above the output in the repl html editor. 
-* Please submit the link to your web page in Canvas.
-* ![Clone GitHub](https://github.com/cmcntsh/N6806_Fall2020_DevNotes/blob/master/Images/replPageLink.JPG)
+## Push to repository and turn on GitHub Pages
+
+* A short demonstration: https://youtu.be/96Gs4wg5mGs
